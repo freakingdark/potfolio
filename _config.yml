@@ -7,3 +7,4 @@ theme: jekyll-theme-minimal
 collection:
   projects:
     output: true
+    permalink: /:collection/:name/
