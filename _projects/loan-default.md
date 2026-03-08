@@ -146,7 +146,7 @@ Several diagnostic plots were generated:
 
 ### ROC Curve
 
-![ROC Curve]("/assets/img/loan_roc_curve.png")
+![ROC Curve](/assets/img/loan_roc_curve.png)
 
 ### Confusion Matrix
 
@@ -154,7 +154,7 @@ Several diagnostic plots were generated:
 
 ### Feature Importance
 
-![Feature Importance]("/assets/img/loan_feature_importance.png")
+![Feature Importance](/assets/img/loan_feature_importance.png)
 
 ---
 
