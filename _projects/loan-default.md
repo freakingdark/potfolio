@@ -60,7 +60,7 @@ Initial analysis examined:
 
 ### Target Distribution
 
-![Target Distribution](/assets/img/loan_target_distribution.png)
+![Target Distribution](/potfolio/assets/img/loan_target_distribution.png)
 
 The dataset is **class imbalanced**, with roughly **80% of loans repaid**.
 
@@ -146,15 +146,15 @@ Several diagnostic plots were generated:
 
 ### ROC Curve
 
-![ROC Curve](/assets/img/loan_roc_curve.png)
+![ROC Curve](/potfolio/assets/img/loan_roc_curve.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](/assets/img/loan_confusion_matrix.png)
+![Confusion Matrix](/potfolio/assets/img/loan_confusion_matrix.png)
 
 ### Feature Importance
 
-![Feature Importance](/assets/img/loan_feature_importance.png)
+![Feature Importance](/potfolio/assets/img/loan_feature_importance.png)
 
 ---
 
