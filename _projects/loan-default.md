@@ -108,3 +108,92 @@ The model was trained using **LightGBM**, a gradient boosting framework optimize
 
 Training configuration:
 
+n_estimators = 1500
+learning_rate = 0.01
+max_depth = 6
+num_leaves = 31
+subsample = 0.8
+colsample_bytree = 0.8
+
+
+Validation strategy:
+
+- **Stratified 5-Fold Cross Validation**
+- Early stopping
+- Gradient boosted decision trees
+
+---
+
+## Model Performance
+
+| Fold | ROC-AUC |
+|-----|------|
+| Fold 1 | 0.921 |
+| Fold 2 | 0.920 |
+| Fold 3 | 0.919 |
+| Fold 4 | 0.920 |
+| Fold 5 | 0.919 |
+
+**Final ROC-AUC: 0.920**
+
+This indicates strong ability to distinguish between likely repayment and default.
+
+---
+
+## Model Evaluation
+
+Several diagnostic plots were generated:
+
+### ROC Curve
+
+![ROC Curve](/assets/img/loan_roc_curve.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](/assets/img/loan_confusion_matrix.png)
+
+### Feature Importance
+
+![Feature Importance](/assets/img/loan_feature_importance.png)
+
+---
+
+## Key Insights
+
+- **Credit score** is the strongest repayment predictor
+- **Debt-to-income ratio** strongly influences default risk
+- **Employment status** significantly affects repayment probability
+- Feature engineering improves model interpretability and accuracy
+
+---
+
+## Technologies Used
+
+Python  
+Pandas  
+NumPy  
+Scikit-learn  
+LightGBM  
+Matplotlib  
+Seaborn  
+Jupyter Notebook
+
+---
+
+## Future Improvements
+
+Possible extensions:
+
+- Hyperparameter optimization using **Optuna**
+- Model ensembling (LightGBM + CatBoost + XGBoost)
+- Feature interaction engineering
+- Probability calibration
+
+---
+
+## Author
+
+Deepali Pandey  
+Data Analyst | Machine Learning | Python
+
+
