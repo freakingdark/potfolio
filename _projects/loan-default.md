@@ -150,7 +150,7 @@ Several diagnostic plots were generated:
 
 ### Confusion Matrix
 
-![Confusion Matrix]("/assets/img/loan_confusion_matrix.png")
+![Confusion Matrix](/assets/img/loan_confusion_matrix.png)
 
 ### Feature Importance
 
