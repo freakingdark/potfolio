@@ -3,7 +3,7 @@ logo: /assets/img/headshot_circle.png
 description: Data Analyst | Machine Learning | Python | SQL | Data Visualization
 theme: jekyll-theme-minimal
 
-baseurl: "/potfolio"
+# baseurl: "/potfolio"
 collections:
   projects:
     output: true
