@@ -129,23 +129,23 @@ predicted_price = base_price * exp(predicted_log_return)
 
 ### Historical Price
 
-<img src="{{ '/assets/img/banknifty_price.png' | relative_url }}" width="650">
+<img src="{{ '/potfolio/assets/img/banknifty_price.png' | relative_url }}" width="650">
 
 ### Technical Indicators (RSI & MACD)
 
-<img src="{{ '/assets/img/rsi_macd.png' | relative_url }}" width="650">
+<img src="{{ '/potfolio/assets/img/rsi_macd.png' | relative_url }}" width="650">
 
 ### Feature Correlation
 
-<img src="{{ '/assets/img/feature_correlation.png' | relative_url }}" width="650">
+<img src="{{ '/potfolio/assets/img/feature_correlation.png' | relative_url }}" width="650">
 
 ### Training Loss
 
-<img src="{{ '/assets/img/lstm_training_loss.png' | relative_url }}" width="650">
+<img src="{{ '/potfolio/assets/img/lstm_training_loss.png' | relative_url }}" width="650">
 
 ### True vs Predicted Price
 
-<img src="{{ '/assets/img/lstm_prediction.png' | relative_url }}" width="650">
+<img src="{{ '/potfolio/assets/img/lstm_prediction.png' | relative_url }}" width="650">
 
 ---
 
