@@ -27,9 +27,9 @@ Data analyst with a quantitative background in physics and hands-on experience i
 </div>
 
 <div style="border:1px solid #ddd; padding:15px; border-radius:10px;">
-<h3>Tsunami Risk Analysis</h3>
-<p>Geospatial and statistical analysis of global seismic data with logistic regression (AUC 0.84).</p>
-<a href="https://github.com/freakingdark/Tsunami_Project">View Project</a>
+<h3>Earthquake & Tsunami Risk Analysis</h3>
+<p>Geospatial analysis and statistical modeling of global earthquake data using Extreme Value Theory and logistic regression.</p>
+<a href="/potfolio/projects/tsunami-risk/">View Project</a>
 </div>
 
 <div style="border:1px solid #ddd; padding:15px; border-radius:10px;">
