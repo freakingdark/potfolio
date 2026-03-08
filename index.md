@@ -21,9 +21,9 @@ Data analyst with a quantitative background in physics and hands-on experience i
 </div>
 
 <div style="border:1px solid #ddd; padding:15px; border-radius:10px;">
-<h3>Stock Market Prediction (LSTM)</h3>
-<p>Deep learning model predicting market movement using BankNifty data and technical indicators.</p>
-<a href="/_projects/loan-default.html">View Project</a>
+<h3>Stock Market Prediction with LSTM</h3>
+<p>Deep learning time-series model predicting NIFTY Bank index log returns using technical indicators and LSTM networks.</p>
+<a href="/potfolio/projects/lstm-stock/">View Project</a>
 </div>
 
 <div style="border:1px solid #ddd; padding:15px; border-radius:10px;">
