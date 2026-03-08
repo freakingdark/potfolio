@@ -5,7 +5,7 @@ layout: default
 
 # Loan Default Prediction using Machine Learning
 
-[View Code on GitHub](https://github.com/freakingdark/Loan_Payback_Prediction)
+[View Code on GitHub](https://github.com/freakingdark/Loan_Payback_Project)
 
 ---
 
