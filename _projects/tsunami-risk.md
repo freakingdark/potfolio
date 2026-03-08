@@ -151,16 +151,6 @@ P(Tsunami | magnitude, latitude, longitude)
 
 ---
 
-## Model Evaluation
-
-### ROC Curve
-
-![ROC Curve](/potfolio/assets/img/tsunami_roc_curve.png)
-
-The ROC-AUC score indicates the model's ability to distinguish between tsunami and non-tsunami earthquakes.
-
----
-
 ## Key Insights
 
 Important findings from the analysis:
