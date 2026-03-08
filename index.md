@@ -17,7 +17,7 @@ Data analyst with a quantitative background in physics and hands-on experience i
 <div style="border:1px solid #ddd; padding:15px; border-radius:10px;">
 <h3>Loan Default Prediction</h3>
 <p>Machine learning model predicting loan repayment using 593k+ borrower records with ROC-AUC ≈ 0.92.</p>
-<a href="/projects/loan-default">View Project</a>
+<a href="/potfolio/projects/loan-default/">View Project</a>
 </div>
 
 <div style="border:1px solid #ddd; padding:15px; border-radius:10px;">
