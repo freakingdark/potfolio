@@ -5,9 +5,9 @@ title: ""
 # Hi, I'm Deepali Pandey
 
 Python | SQL | Machine Learning | Time Series Analysis | Data Visualization | Pandas | Scikit-Learn | TensorFlow | Tableau
+---
 
 Data analyst with a quantitative background in physics specializing in machine learning, statistical modeling, and financial time-series analysis. Experienced in building predictive models, analyzing large datasets, and developing data-driven insights using Python, SQL, and modern ML frameworks.
----
 
 # Projects
 
