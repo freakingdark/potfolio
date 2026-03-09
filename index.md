@@ -4,10 +4,9 @@ title: ""
 
 # Hi, I'm Deepali Pandey
 
-Data Analyst | Machine Learning | Python | SQL | Data Visualization  
+Python | SQL | Machine Learning | Time Series Analysis | Data Visualization | Pandas | Scikit-Learn | TensorFlow | Tableau
 
-Data analyst with a quantitative background in physics and hands-on experience in machine learning, statistical modeling, and data visualization. I work on extracting insights from complex datasets and building predictive models for financial, scientific, and geospatial data.
-
+Data analyst with a quantitative background in physics specializing in machine learning, statistical modeling, and financial time-series analysis. Experienced in building predictive models, analyzing large datasets, and developing data-driven insights using Python, SQL, and modern ML frameworks.
 ---
 
 # Projects
@@ -16,19 +15,28 @@ Data analyst with a quantitative background in physics and hands-on experience i
 
 <div style="border:1px solid #ddd; padding:15px; border-radius:10px;">
 <h3>Loan Default Prediction</h3>
-<p>Machine learning model predicting loan repayment using 593k+ borrower records with ROC-AUC ≈ 0.92.</p>
+<p>Predictive machine learning model developed to identify loan repayment risk using a large-scale financial dataset containing 593k+ borrower records.
+Performed extensive data preprocessing, feature engineering, and class imbalance handling, followed by training gradient boosting models including LightGBM.
+The final model achieved ROC–AUC ≈ 0.92, demonstrating strong predictive performance for credit risk classification.
+This project illustrates the application of machine learning techniques in financial risk modeling and lending analytics.</p>
 <a href="/potfolio/projects/loan-default/">View Project</a>
 </div>
 
 <div style="border:1px solid #ddd; padding:15px; border-radius:10px;">
 <h3>Stock Market Prediction with LSTM</h3>
-<p>Deep learning time-series model predicting NIFTY Bank index log returns using technical indicators and LSTM networks.</p>
+<p>Deep learning–based time series forecasting model designed to predict NIFTY Bank index log returns using historical market data and technical indicators.
+The workflow includes feature engineering, normalization, sliding-window time series construction, and LSTM neural network training to capture temporal dependencies in financial data.
+The project also implements strategy backtesting and performance visualization, enabling comparison between model-based predictions and market trends.
+This work demonstrates practical applications of deep learning for financial time series modeling and trading strategy research.</p>
 <a href="/potfolio/projects/lstm-stock/">View Project</a>
 </div>
 
 <div style="border:1px solid #ddd; padding:15px; border-radius:10px;">
 <h3>Earthquake & Tsunami Risk Analysis</h3>
-<p>Geospatial analysis and statistical modeling of global earthquake data using Extreme Value Theory and logistic regression.</p>
+<p>Comprehensive statistical analysis of global earthquake events aimed at understanding patterns associated with tsunami-generating earthquakes.
+The project integrates geospatial visualization, exploratory data analysis, and extreme value theory (EVT) techniques to analyze earthquake magnitude distributions. A Peaks-Over-Threshold (POT) framework with Generalized Pareto Distribution (GPD) is applied to model extreme seismic events.
+Additionally, a logistic regression classifier is used to estimate the probability of tsunami occurrence based on earthquake characteristics.
+This study demonstrates how statistical modeling and geophysical data analysis can support natural hazard risk assessment.</p>
 <a href="/potfolio/projects/tsunami-risk/">View Project</a>
 </div>
 
