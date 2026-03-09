@@ -27,7 +27,7 @@ Given a dataset containing article URLs, the task was to:
 4. Compute multiple linguistic and statistical metrics.
 5. Store the results in a structured output dataset.
 
-The extracted analysis includes metrics such as sentiment polarity, subjectivity, readability scores, and linguistic complexity indicators. :contentReference[oaicite:0]{index=0}
+The extracted analysis includes metrics such as sentiment polarity, subjectivity, readability scores, and linguistic complexity indicators.
 
 ---
 
@@ -56,7 +56,7 @@ The extracted text was cleaned using:
 - Lowercasing
 - Punctuation removal
 
-Stopword lists were used to remove non-informative terms before performing sentiment analysis. :contentReference[oaicite:1]{index=1}
+Stopword lists were used to remove non-informative terms before performing sentiment analysis.
 
 ---
 
@@ -71,7 +71,7 @@ Computed metrics:
 - Polarity Score
 - Subjectivity Score
 
-These scores help determine whether the article sentiment is positive, negative, or neutral. :contentReference[oaicite:2]{index=2}
+These scores help determine whether the article sentiment is positive, negative, or neutral.
 
 ---
 
@@ -86,7 +86,7 @@ Key indicators include:
 - Fog Index
 - Average number of words per sentence
 
-The **Gunning Fog Index** was used to evaluate readability difficulty. :contentReference[oaicite:3]{index=3}
+The **Gunning Fog Index** was used to evaluate readability difficulty. 
 
 ---
 
@@ -100,7 +100,7 @@ Additional linguistic metrics were computed:
 - Personal Pronoun Frequency
 - Average Word Length
 
-These features provide deeper insight into writing style and textual complexity. :contentReference[oaicite:4]{index=4}
+These features provide deeper insight into writing style and textual complexity.
 
 ---
 
@@ -128,4 +128,4 @@ These features provide deeper insight into writing style and textual complexity.
 ## Repository
 
 GitHub Repository:  
-https://github.com/freakingdark/blackcoffer-text-analysis
+https://github.com/freakingdark/Sentiment-analysis-of-Blogs-
