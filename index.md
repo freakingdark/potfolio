@@ -42,7 +42,7 @@ This study demonstrates how statistical modeling and geophysical data analysis c
 
 <div style="border:1px solid #ddd; padding:15px; border-radius:10px;">
 <h3>Sentiment Analysis of Blogs</h3>
-<p>NLP project analyzing blog sentiment using machine learning and text processing techniques.</p>
+<p>Python-based pipeline for scraping financial articles and performing NLP-based sentiment and readability analysis. Extracts structured metrics such as polarity, subjectivity, and linguistic complexity from unstructured text using BeautifulSoup, NLTK, and pandas.</p>
 <a href="/potfolio/projects/blackcoffer-nlp/">View Project</a>
 </div>
 
